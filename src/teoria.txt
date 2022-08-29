@@ -1,0 +1,27 @@
+React JS
+
+	Declarativo
+		SQL -> select nombre, apellido from usuarios
+		Mongo -> db.usuarios.find({}, {nombre:1, apellido:1})
+
+		Los componentes trabajan basados en estados que cambien y refrescan al propio componente
+
+	Componentes
+		Es un elemento HTML creado desde JS que tendra estado propio
+
+
+
+	Libreria -> Resuelve un problema / es para algo puntual. 
+
+
+
+JSX-> eXtended  /  XML
+
+
+
+INSTALACION de create-react-app
+
+npx create-react-app my-app
+
+npm i -g create-react-app
+create-react-app my-app

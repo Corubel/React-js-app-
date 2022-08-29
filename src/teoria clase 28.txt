@@ -1,0 +1,8 @@
+Un componente es una funcion o una clase que devuelve un "elemento html" (un objeto que representa a ese elemento)
+
+
+Loc componentes solo pueden devolver UN unico elemento de salida
+	Se puede usar una fragment <> ... </> para envolver todo. Es equivalente a un array
+
+
+
