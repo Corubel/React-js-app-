@@ -1,0 +1,60 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "nombre": "Moto E20",
+            "marca": "Motorola",
+            "categoria": "celulares",
+            "precio": 40000
+        },
+        {
+            "id": 2,
+            "nombre": "Moto E40",
+            "marca": "Motorola",
+            "categoria": "celulares",
+            "precio": 50000
+        },
+        {
+            "id": 3,
+            "nombre": "A11",
+            "marca": "Samsung",
+            "categoria": "celulares",
+            "precio": 50000
+        },
+        {
+            "id": 4,
+            "nombre": "J7",
+            "marca": "Samsung",
+            "categoria": "celulares",
+            "precio": 30000
+        },
+        {
+            "id": 5,
+            "nombre": "ThinkPad",
+            "marca": "Dell",
+            "categoria": "notebooks",
+            "precio": 40000
+        },
+        {
+            "id": 6,
+            "nombre": "a55",
+            "marca": "Lenovo",
+            "categoria": "notebooks",
+            "precio": 120000
+        },
+        {
+            "id": 7,
+            "nombre": "Vaio 16s",
+            "marca": "Sony",
+            "categoria": "notebooks",
+            "precio": 130000
+        },
+        {
+            "id": 8,
+            "nombre": "E450",
+            "marca": "Exo",
+            "categoria": "celulares",
+            "precio": 150000
+        }
+    ]
+}

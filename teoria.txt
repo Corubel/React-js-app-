@@ -1,0 +1,19 @@
+Entidades (tabla / collecciones) -> guardan informacion coherente y relacionada en si misma
+    Campos -> son los direntes datos que poseo de cada registro/documento
+Usuarios -> Nombre, Apellido, Edad, 
+
+SQL -> por cada entidad tengo una tabla
+
+Mongo -> Documentos embebidos
+    User1{
+        id: 1
+        nombre: "Carlos",
+        apellido: "Sanchez"
+
+        tickest: [
+            {id: 4, monto: 123, fecha: 5/2/1995},
+            {id: 5, monto: 534, fecha: 5/2/1995},
+            {id: 6, monto: 1455, fecha: 5/2/1995},
+
+        ]
+    }
